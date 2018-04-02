@@ -1,0 +1,4 @@
+.l-container {
+  width: $contents-width;
+  margin: 0 auto;
+}

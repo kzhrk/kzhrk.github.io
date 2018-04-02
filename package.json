@@ -1,0 +1,28 @@
+{
+  "private": true,
+  "devDependencies": {
+    "autoprefixer": "^8.2.0",
+    "babel-core": "^6.26.0",
+    "babel-loader": "^7.1.4",
+    "babel-plugin-transform-async-to-generator": "^6.24.1",
+    "babel-plugin-transform-object-rest-spread": "^6.26.0",
+    "babel-plugin-transform-runtime": "^6.23.0",
+    "babel-preset-env": "^1.6.1",
+    "cpx": "^1.5.0",
+    "cssnano": "^3.10.0",
+    "eslint": "^4.19.1",
+    "eslint-config-prettier": "^2.9.0",
+    "eslint-plugin-prettier": "^2.6.0",
+    "fontello-cli": "^0.4.0",
+    "postcss-cli": "^5.0.0",
+    "postcss-import": "^11.1.0",
+    "precss": "^3.1.2",
+    "prettier": "^1.11.1",
+    "pug-cli": "^1.0.0-alpha6",
+    "reset-css": "^3.0.0",
+    "spectre.css": "^0.5.1",
+    "watch": "^1.0.2",
+    "webpack": "^4.4.1",
+    "webpack-cli": "^2.0.13"
+  }
+}

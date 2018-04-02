@@ -1,0 +1,6 @@
+.l-header {
+  z-index: 1;
+  &_logo {
+    z-index: 2;
+  }
+}
